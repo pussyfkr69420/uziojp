@@ -103,4 +103,4 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 # DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ALA,K,Andy Hole,Fr,69,420,100000,100000,100000,100000,100000,100000,1000
+PLAYER,ALA,QB,Andy Hole,Fr,69,420,1000000,1000000,1000000,1000000,1000000,1000000,1000000
