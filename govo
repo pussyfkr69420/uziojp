@@ -74,7 +74,7 @@ TEAM,Pac 12,North,Stanford,STAN,85,BYU,,,,,,,
 TEAM,Pac 12,North,Washington St,WSU,75,ASU,,,,,,,
 TEAM,Pac 12,North,California,CAL,70,UCLA,,,,,,,
 TEAM,Pac 12,North,Oregon St,ORST,60,COLO,,,,,,,
-TEAM,Pac 12,South,USC,USC,90,ND,,,,,,,
+TEAM,Pac 12,South,USC,USC,0,ND,,,,,,,
 TEAM,Pac 12,South,UCLA,UCLA,85,CAL,,,,,,,
 TEAM,Pac 12,South,Utah,UTAH,75,ORE,,,,,,,
 TEAM,Pac 12,South,BYU,BYU,75,STAN,,,,,,,
@@ -103,4 +103,4 @@ TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
 # Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
 # DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
 # OR:,Team,Position,Name,Year (String),Height,Weight,Potential,Football IQ,Durability,Attribute1,Attribute2,Attribute3,Attribute4
-PLAYER,ALA,QB,Andy Hole,Fr,69,420,1000000,1000000,1000000,1000000,1000000,1000000,1000000
+PLAYER,USC,K,Andy Hole,Sr,69,420,100000,100000,100000,100000,100000,100000,100000
